@@ -29795,5 +29795,362 @@
             "dc7e2094-148c-438d-9b97-b6586e6e5f87"
         ]
     },
+    "0193b280-fe05-7aa8-bf5d-0152da07f156": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "0193b280-fe1f-75a4-ecab-773ba26ef85e",
+            "0193b280-fe2c-7a9f-50dd-ebe00e072c82",
+            "0193b280-fe2c-778f-478a-2efbddf6e53e",
+            "0193b280-fe2c-71ba-9ffc-464e05f2433e",
+            "0193b280-fe2c-70b8-38b5-4bc4897b518c",
+            "0193b280-fe2d-7fac-b055-772b7e983b61",
+            "0193b280-fe2d-7a85-1154-c7cd07ce4342",
+            "0193b280-fe2d-7698-2e5b-ac282ee215be",
+            "0193b280-fe2d-70be-bb6a-813d70303f25",
+            "0193b280-fe2d-7fa2-f70c-5d9135f31d41",
+            "0193b280-fe2d-7185-4bd2-091250e4037f",
+            "0193b280-fe2d-768a-91c8-894f86dd6930",
+            "0193b280-fe2d-7eb5-d767-85cfb29c45d5"
+        ]
+    },
+    "0193b280-fe1f-7187-6bf6-3b722fddfc11": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/Material Instances/Skeleton Props.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "0193b280-fe2c-77b9-96d8-4f705fb526ed"
+        ]
+    },
+    "0193b280-fe1f-75a4-ecab-773ba26ef85e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Arrow.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "0193b280-fe1f-7e89-7d35-ef8ccd5888e9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe1f-7e89-7d35-ef8ccd5888e9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Arrow.mesh.nasset/Skeleton Arrow Skeleton Props.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2c-70b8-38b5-4bc4897b518c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Axe.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "0193b280-fe2c-7bb3-88e7-00de28da4286",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2c-719b-fa17-3ba052c63747": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Arrow Half.mesh.nasset/Skeleton Arrow Half Skeleton Props.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2c-71ba-9ffc-464e05f2433e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Arrow Half.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "0193b280-fe2c-719b-fa17-3ba052c63747",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2c-778f-478a-2efbddf6e53e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Arrow Broken Half.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "0193b280-fe2c-78a2-2715-aefaab1329d9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2c-77b9-96d8-4f705fb526ed": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/KayKit_Skeleton_Army/Props/Textures/T_Skeletons_D.tex.nasset"
+    },
+    "0193b280-fe2c-78a2-2715-aefaab1329d9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Arrow Broken Half.mesh.nasset/Skeleton Arrow Broken Half Skeleton Props.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2c-7a9f-50dd-ebe00e072c82": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Arrow Broken.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "0193b280-fe2c-7f92-77ea-e0dc645ed92d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2c-7bb3-88e7-00de28da4286": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Axe.mesh.nasset/Skeleton Axe Skeleton Props.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2c-7f92-77ea-e0dc645ed92d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Arrow Broken.mesh.nasset/Skeleton Arrow Broken Skeleton Props.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-7094-16a7-ea6bd0c9c9e9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Blade.mesh.nasset/Skeleton Blade Skeleton Props.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-70be-bb6a-813d70303f25": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Shield Large A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "0193b280-fe2d-7681-52b0-4d816e642309",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-7185-4bd2-091250e4037f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Shield Small A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "0193b280-fe2d-7987-c138-6bf975345969",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-758e-fb3a-393255191e9e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Shield Large B.mesh.nasset/Skeleton Shield Large B Skeleton Props.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-7681-52b0-4d816e642309": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Shield Large A.mesh.nasset/Skeleton Shield Large A Skeleton Props.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-768a-91c8-894f86dd6930": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Shield Small B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "0193b280-fe2d-7cb1-bf64-74a49d02489f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-7698-2e5b-ac282ee215be": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Quiver.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "0193b280-fe2d-7798-3867-5d8686d053d1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-7798-3867-5d8686d053d1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Quiver.mesh.nasset/Skeleton Quiver Skeleton Props.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-7987-c138-6bf975345969": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Shield Small A.mesh.nasset/Skeleton Shield Small A Skeleton Props.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-799f-8a49-92fda18bb6f9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Staff.mesh.nasset/Skeleton Staff Skeleton Props.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-7a85-1154-c7cd07ce4342": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Crossbow.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "0193b280-fe2d-7cb1-b15b-947e2580749a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-7cb1-b15b-947e2580749a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Crossbow.mesh.nasset/Skeleton Crossbow Skeleton Props.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-7cb1-bf64-74a49d02489f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Shield Small B.mesh.nasset/Skeleton Shield Small B Skeleton Props.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-7eb5-d767-85cfb29c45d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Staff.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "0193b280-fe2d-799f-8a49-92fda18bb6f9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-7fa2-f70c-5d9135f31d41": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Shield Large B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "0193b280-fe2d-758e-fb3a-393255191e9e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b280-fe2d-7fac-b055-772b7e983b61": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/KayKit_Skeleton_Army/Props/SC_Skeleton_Props.scene.nasset/Skeleton Blade.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b280-fe1f-7187-6bf6-3b722fddfc11",
+            "0193b280-fe2d-7094-16a7-ea6bd0c9c9e9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
     "guid": "0193b238-4048-7aac-2457-b473f0bbf855"
 }

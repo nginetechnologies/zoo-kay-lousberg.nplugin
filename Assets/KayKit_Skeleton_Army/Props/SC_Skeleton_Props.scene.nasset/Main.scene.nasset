@@ -1,0 +1,202 @@
+{
+    "guid": "0193b280-fe05-7aa8-bf5d-0152da07f156",
+    "source": "../SC_Skeleton_Props.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0193b280-fe0c-7aa0-9132-eb1e2ece710f",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC Skeleton Props"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b280-fe1e-7cbd-e7f9-9987233590ec",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Arrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b280-fe1f-75a4-ecab-773ba26ef85e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b280-fe2c-72b5-ac38-7f7fbad340e6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Arrow Broken"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b280-fe2c-7a9f-50dd-ebe00e072c82"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b280-fe2c-73bc-cf27-0c74c4407395",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Arrow Broken Half"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b280-fe2c-778f-478a-2efbddf6e53e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b280-fe2c-7089-0778-c6926b3fdc15",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Arrow Half"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b280-fe2c-71ba-9ffc-464e05f2433e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b280-fe2c-7695-8844-8c9faef03e74",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Axe"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b280-fe2c-70b8-38b5-4bc4897b518c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b280-fe2c-749a-0970-cd097f505a05",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Blade"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b280-fe2d-7fac-b055-772b7e983b61"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b280-fe2d-7aa2-37a1-1085ffe206fc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Crossbow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b280-fe2d-7a85-1154-c7cd07ce4342"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b280-fe2d-7fac-f798-4c9d06f94cd4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Quiver"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b280-fe2d-7698-2e5b-ac282ee215be"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b280-fe2d-7eb8-ca9e-bfd9b0d55b71",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Shield Large A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b280-fe2d-70be-bb6a-813d70303f25"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b280-fe2d-7888-0796-881702fce982",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Shield Large B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b280-fe2d-7fa2-f70c-5d9135f31d41"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b280-fe2d-70b4-df1b-fa6119df21f0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Shield Small A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b280-fe2d-7185-4bd2-091250e4037f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b280-fe2d-7fa5-89a8-229d31d43185",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Shield Small B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b280-fe2d-768a-91c8-894f86dd6930"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b280-fe2d-7d95-296d-4b7fd8b93540",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skeleton Staff"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b280-fe2d-7eb5-d767-85cfb29c45d5"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0193b280-fe05-7aa8-bf5d-0152da07f156"
+    },
+    "dependencies": [
+        "0193b280-fe1f-75a4-ecab-773ba26ef85e",
+        "0193b280-fe2c-7a9f-50dd-ebe00e072c82",
+        "0193b280-fe2c-778f-478a-2efbddf6e53e",
+        "0193b280-fe2c-71ba-9ffc-464e05f2433e",
+        "0193b280-fe2c-70b8-38b5-4bc4897b518c",
+        "0193b280-fe2d-7fac-b055-772b7e983b61",
+        "0193b280-fe2d-7a85-1154-c7cd07ce4342",
+        "0193b280-fe2d-7698-2e5b-ac282ee215be",
+        "0193b280-fe2d-70be-bb6a-813d70303f25",
+        "0193b280-fe2d-7fa2-f70c-5d9135f31d41",
+        "0193b280-fe2d-7185-4bd2-091250e4037f",
+        "0193b280-fe2d-768a-91c8-894f86dd6930",
+        "0193b280-fe2d-7eb5-d767-85cfb29c45d5"
+    ]
+}
