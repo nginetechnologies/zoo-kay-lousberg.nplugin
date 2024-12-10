@@ -1,0 +1,1000 @@
+{
+    "guid": "0193b25d-2ebe-78a9-21e9-b532d88f87a8",
+    "source": "../SC_Halloween_Bits.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0193b25d-2ed7-7fae-654d-38c140da7104",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC Halloween Bits"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ee6-7b8b-a612-15c905fac220",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arch"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ee6-7a8e-10f3-461d6c1c07b1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef4-7b83-11fd-9bfc4e16d2c0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arch Gate Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef4-7298-1b25-8febdb5861ee"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef4-79b5-76e8-a047adc4066d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arch Gate Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef4-7ea4-62ec-95aaaeb23da6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef4-73bc-e06d-c4d16b798228",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arch Gate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef4-78a7-610d-8c1a3d6c0259"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef4-7aab-6ec8-bd19945747d4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bench"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef4-7a98-66aa-556a10614565"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef4-7ca4-30e4-80d38d1ded2c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bench Decorated"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef4-7696-98e5-7ff9d7100cac"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef4-73ad-eb74-ccdf316523b1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bone A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef4-73ad-25f1-c1a16a9d720c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef4-7e94-bd8a-e09ce4bc8332",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bone B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef4-749e-b1f1-7f94ad865b06"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef4-7084-2606-f4b13331cb59",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bone C"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef5-7f8c-730c-598e70016e92"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef5-7599-731d-b520e549f249",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Candle"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef5-76a7-07ad-b4dc2b0a43f4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef5-73ad-73de-1f796e3c82f8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Candle Melted"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef5-7086-a894-ebab15901dc8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef5-72a4-cec9-af712c038bad",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Candle Thin"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef5-71b6-18ca-82f4f118de34"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef5-7289-8fa7-5eb3d65985e8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Candle Triple"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef5-7397-11a4-ab897e3df23f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef5-7093-99d8-c439761a0742",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coffin Lid"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef5-76b4-1d73-3e6412b94ad3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef5-7d84-14a7-732e55632265",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coffin"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef5-7fb0-5da2-63a3373cddaa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef5-79aa-9b9b-82f5923b8411",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coffin Decorated"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef5-79ad-ba1c-d68706b238d6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef5-78a9-c54b-b890455107e2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crypt"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef5-73b7-ad07-cd7106bf3cb1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef5-7e88-bcf1-ac87effa86df",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef5-72bb-002a-39a02608bfeb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef5-7da1-e3bd-8fb73133e58c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Broken"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef5-7db8-4585-879d412a8771"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef5-71b2-987b-74a1f1b6fccb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Gate Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef6-70a3-21ab-90df14a599db"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef6-7c96-2267-4aca35b1c12b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Gate Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef6-7485-22b2-5b9f84fb06f1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef6-71b7-a73f-69c905c8f934",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Gate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef6-77ba-5e27-81ee18695732"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef6-7997-912a-488a0d059d71",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Pillar"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef6-70b0-ce61-f756d3ed3025"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef6-7cbb-1903-186276bac3d7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Pillar Broken"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef6-799d-9bfc-3ac6faed393b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef6-7b9c-504f-b29a4a87b07f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Seperate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef6-7984-82f6-40e66949c4b5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef6-7da8-002a-51122156a99b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Seperate Broken"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef6-748a-b1a3-01230e39ab84"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef6-73b8-0fe1-f25e30a13b1a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor Dirt"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef6-7fa6-92b4-7cc54222cd72"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef6-7a87-f1ef-ae94f33f04be",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor Dirt Grave"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef6-7a8a-a269-b0712e6579b0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef6-74b5-d521-3e7c6a6455ba",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor Dirt Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef6-7a82-9763-8378e8e2f86c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef6-70b4-cdee-d381cc3a9685",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grave A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef6-7a98-8122-d3ebeba8dc40"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef6-7286-6741-61b6405867e2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grave A Destroyed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef7-73ab-5c24-1d60dc5a69ed"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef7-77b3-16ad-733343734bc0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grave B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef7-7e93-f0f6-ce70a2f74f00"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef7-72a3-bcc1-f27ef0edf63c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gravemarker A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef7-70b9-97ed-f6501733010a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef7-79a2-d6b4-c6e6ce9be878",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gravemarker B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef7-77b8-64f1-60a316a0bbb9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef7-79be-0420-53053c6314e7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gravestone"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef7-7992-6ebe-00c292cb1737"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef7-70a9-884c-319ba034d763",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lantern Hanging"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef7-71a8-9b6d-82846c4140e5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef7-7bb2-498e-2827a7c9bb99",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Lantern Standing"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef7-75a6-e938-34a134fae9f2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef7-798f-52e0-74beb53c3496",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Path A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef7-7eaa-bc68-e8f62d2c27bc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef7-798b-e228-46f80deed547",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Path B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef7-7593-09be-123b75025336"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef7-7b8a-dd74-9d737a2bd342",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Path C"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef7-7389-3671-540e3a0d1fba"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef7-77a1-2bab-5b1524a5ad30",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Path D"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef7-79b8-8fee-a96620b2187b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef7-7e82-9997-f3b0c00d9858",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef7-79ac-16a2-e653780a67c5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef7-73a5-cce3-0a378b621840",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plaque"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef8-7aaa-b3f9-b23f7cb18855"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef8-7185-2655-833aec315620",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plaque Candles"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef8-7680-df70-2aa0e97151cc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef8-76b4-0ae2-d7b4ae4c9fcf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Post"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef8-76ad-09f9-515ba61da28a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef8-72bb-e5c6-51d692c99000",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Post Lantern Lantern"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef8-7585-0bfb-fb42c93e2918"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef8-7488-9636-e329125a5b8a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Post Lantern"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef8-7982-8593-a3f6f63a613e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef8-7dbe-fb65-4154a09d88d4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Post Skull Skull"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef8-70b1-83d0-5071876abf0f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef8-7582-cc3a-dd9f58956c97",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Post Skull"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef8-78a3-3f94-8c3001457ab5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef8-7f83-44f1-bacc8bc496db",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pumpkin Orange"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef8-759e-9891-26f96d617328"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef8-7bb0-eb67-f0f433405430",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pumpkin Orange Jackolantern"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef8-7283-97de-83d369b6065e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef8-78bd-5153-267a9b8daca1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pumpkin Orange Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef8-7893-f83a-b12973cb2617"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef8-7ea9-b762-52a770886782",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pumpkin Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef9-7fb7-9050-f5115dc167bd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef9-7493-7cb7-428c9d452c72",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pumpkin Yellow Jackolantern"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef9-759c-ed1a-b3b48995cb2d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef9-74a9-e86f-a49fa400b291",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pumpkin Yellow Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef9-73bf-375c-9f94ade7c53f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef9-7991-549c-86148039688c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ribcage"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef9-7ca5-3686-fdc2f5fae210"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef9-7da7-a5bf-0741efed4783",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Shrine"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef9-75b9-4b34-66260f8e1843"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef9-70b5-db36-fc9ec62c62e5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Shrine Candles"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef9-7882-d28a-489a0fc0d7f7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef9-7b97-9415-b5b0191c4f48",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skull"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef9-7f9e-c323-6e334e232332"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef9-7b8b-cfd6-00a035f80203",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skull Candle"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef9-7696-55cc-ab764b464377"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef9-70b5-816e-3a4f72a962f5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Dead Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2ef9-75ae-1658-f66a3804fae4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2ef9-718f-eb96-cc50966bdaa1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Dead Large Decorated"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2efa-72ba-4601-52308966a360"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2efa-7498-5b08-9ad136ad0716",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Dead Medium"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2efa-76af-2a5d-0542406c8dac"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2efa-70b2-0a1a-0258145c3795",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Dead Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2efa-7aa4-eae4-18838e93cf67"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2efa-76a5-3fce-a4c9008d8900",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Pine Orange Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2efa-7683-a9fa-391a8908b937"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2efa-79bb-2fb2-dbc2e4e40772",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Pine Orange Medium"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2efa-7a98-541b-dad6259d6acf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2efa-758d-f87d-da0b6578dae2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Pine Orange Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2efa-768b-2621-b92cef797d28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2efa-75b4-3a4b-392fef5beaea",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Pine Yellow Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2efa-72be-bbdb-b8a5c54cce8f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2efa-7eb8-faea-aeb24524411a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Pine Yellow Medium"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2efa-7481-5257-ab247a13ccf5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b25d-2efa-7183-e5d3-0a2976b40545",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Pine Yellow Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b25d-2efa-7cbf-6176-a8a1397047d9"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0193b25d-2ebe-78a9-21e9-b532d88f87a8"
+    },
+    "dependencies": [
+        "0193b25d-2ee6-7a8e-10f3-461d6c1c07b1",
+        "0193b25d-2ef4-7298-1b25-8febdb5861ee",
+        "0193b25d-2ef4-7ea4-62ec-95aaaeb23da6",
+        "0193b25d-2ef4-78a7-610d-8c1a3d6c0259",
+        "0193b25d-2ef4-7a98-66aa-556a10614565",
+        "0193b25d-2ef4-7696-98e5-7ff9d7100cac",
+        "0193b25d-2ef4-73ad-25f1-c1a16a9d720c",
+        "0193b25d-2ef4-749e-b1f1-7f94ad865b06",
+        "0193b25d-2ef5-7f8c-730c-598e70016e92",
+        "0193b25d-2ef5-76a7-07ad-b4dc2b0a43f4",
+        "0193b25d-2ef5-7086-a894-ebab15901dc8",
+        "0193b25d-2ef5-71b6-18ca-82f4f118de34",
+        "0193b25d-2ef5-7397-11a4-ab897e3df23f",
+        "0193b25d-2ef5-76b4-1d73-3e6412b94ad3",
+        "0193b25d-2ef5-7fb0-5da2-63a3373cddaa",
+        "0193b25d-2ef5-79ad-ba1c-d68706b238d6",
+        "0193b25d-2ef5-73b7-ad07-cd7106bf3cb1",
+        "0193b25d-2ef5-72bb-002a-39a02608bfeb",
+        "0193b25d-2ef5-7db8-4585-879d412a8771",
+        "0193b25d-2ef6-70a3-21ab-90df14a599db",
+        "0193b25d-2ef6-7485-22b2-5b9f84fb06f1",
+        "0193b25d-2ef6-77ba-5e27-81ee18695732",
+        "0193b25d-2ef6-70b0-ce61-f756d3ed3025",
+        "0193b25d-2ef6-799d-9bfc-3ac6faed393b",
+        "0193b25d-2ef6-7984-82f6-40e66949c4b5",
+        "0193b25d-2ef6-748a-b1a3-01230e39ab84",
+        "0193b25d-2ef6-7fa6-92b4-7cc54222cd72",
+        "0193b25d-2ef6-7a8a-a269-b0712e6579b0",
+        "0193b25d-2ef6-7a82-9763-8378e8e2f86c",
+        "0193b25d-2ef6-7a98-8122-d3ebeba8dc40",
+        "0193b25d-2ef7-73ab-5c24-1d60dc5a69ed",
+        "0193b25d-2ef7-7e93-f0f6-ce70a2f74f00",
+        "0193b25d-2ef7-70b9-97ed-f6501733010a",
+        "0193b25d-2ef7-77b8-64f1-60a316a0bbb9",
+        "0193b25d-2ef7-7992-6ebe-00c292cb1737",
+        "0193b25d-2ef7-71a8-9b6d-82846c4140e5",
+        "0193b25d-2ef7-75a6-e938-34a134fae9f2",
+        "0193b25d-2ef7-7eaa-bc68-e8f62d2c27bc",
+        "0193b25d-2ef7-7593-09be-123b75025336",
+        "0193b25d-2ef7-7389-3671-540e3a0d1fba",
+        "0193b25d-2ef7-79b8-8fee-a96620b2187b",
+        "0193b25d-2ef7-79ac-16a2-e653780a67c5",
+        "0193b25d-2ef8-7aaa-b3f9-b23f7cb18855",
+        "0193b25d-2ef8-7680-df70-2aa0e97151cc",
+        "0193b25d-2ef8-76ad-09f9-515ba61da28a",
+        "0193b25d-2ef8-7585-0bfb-fb42c93e2918",
+        "0193b25d-2ef8-7982-8593-a3f6f63a613e",
+        "0193b25d-2ef8-70b1-83d0-5071876abf0f",
+        "0193b25d-2ef8-78a3-3f94-8c3001457ab5",
+        "0193b25d-2ef8-759e-9891-26f96d617328",
+        "0193b25d-2ef8-7283-97de-83d369b6065e",
+        "0193b25d-2ef8-7893-f83a-b12973cb2617",
+        "0193b25d-2ef9-7fb7-9050-f5115dc167bd",
+        "0193b25d-2ef9-759c-ed1a-b3b48995cb2d",
+        "0193b25d-2ef9-73bf-375c-9f94ade7c53f",
+        "0193b25d-2ef9-7ca5-3686-fdc2f5fae210",
+        "0193b25d-2ef9-75b9-4b34-66260f8e1843",
+        "0193b25d-2ef9-7882-d28a-489a0fc0d7f7",
+        "0193b25d-2ef9-7f9e-c323-6e334e232332",
+        "0193b25d-2ef9-7696-55cc-ab764b464377",
+        "0193b25d-2ef9-75ae-1658-f66a3804fae4",
+        "0193b25d-2efa-72ba-4601-52308966a360",
+        "0193b25d-2efa-76af-2a5d-0542406c8dac",
+        "0193b25d-2efa-7aa4-eae4-18838e93cf67",
+        "0193b25d-2efa-7683-a9fa-391a8908b937",
+        "0193b25d-2efa-7a98-541b-dad6259d6acf",
+        "0193b25d-2efa-768b-2621-b92cef797d28",
+        "0193b25d-2efa-72be-bbdb-b8a5c54cce8f",
+        "0193b25d-2efa-7481-5257-ab247a13ccf5",
+        "0193b25d-2efa-7cbf-6176-a8a1397047d9"
+    ]
+}

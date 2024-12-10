@@ -1,0 +1,3702 @@
+{
+    "guid": "0193b262-beeb-769c-b95a-c71252c02f3e",
+    "source": "../SC_Medieval_Hex.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0193b262-bfbf-78ba-b0d6-02ddb376d86a",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC Medieval Hex"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfd1-7982-5fda-fd6919ed28e6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Archeryrange Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfd1-7f9a-fdd9-335fae12de36"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfdf-70be-4334-36efa25ecba5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Barracks Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe0-72a7-fd78-6b2bed34ce20"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe0-778f-953c-af76431bc8bd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Blacksmith Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe0-7f96-8fc7-ad6b13d95065"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe0-75a7-61d0-06231bdbc9f2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Castle Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe0-7098-610e-41d46601a315"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe0-738e-8e1e-f2759af3a0ab",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Church Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe0-7d8d-20d1-0c6777b1c8ab"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe0-789a-abd8-40ed8204e1ab",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Home A Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe0-719f-b121-8f234e85ca3e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe0-7cbc-d5e4-b71ebed16c28",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Home B Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe0-73a2-c794-fab64e4118d8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe0-7f89-5825-0aa98bea6766",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Lumbermill Saw Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe0-77a3-8e10-471cca037438"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe0-7aba-3058-34f8d7a52e1b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Lumbermill Top Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe0-7f8d-da3a-2cb758f1b249"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe0-7dac-0271-1d7c20bc4002",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Lumbermill Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe0-79a5-0a36-3d859a358cde"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe0-7bb0-aec2-732f732d5956",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Market Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe0-7e87-2f2e-05c3f7bf90c6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe0-7b93-9786-4028ec5b27ab",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Mine Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe0-7bb9-b607-4d91afd714e3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe0-7bb3-766b-5c6e8ce3d19f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tavern Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe0-79bb-9856-a1c5d26433ca"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe0-7eb0-b9c5-e4e05a9c9cb6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower A Top Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe1-7ba0-1b87-95f7f81b506e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe1-7aa0-7905-c049b521ded5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower A Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe1-70b4-e57c-9c2b24a3ab5c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe1-7285-e77c-cebfcda49746",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower B Top Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe1-7397-eaa7-2e804417810a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe1-7b82-8ec7-2c7ebb70bba0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower B Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe1-7187-6dd2-b4187c761d0b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe1-77ae-d590-74b79fe2123e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower Base Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe1-7ea7-fc0e-3080856da42e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe1-7881-b451-568886d07f39",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Catapult Arm Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe1-71af-6b2f-b1272cbc3a2c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe1-7192-1ae2-ee041a9340b9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Catapult Turret Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe1-718c-3169-b432bcf7178a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe1-7982-5487-02d69648ef32",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower Catapult Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe1-7bbe-bfa2-c1fe11b990e1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe1-77ab-8681-7c4fb8819021",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Watermill Wheel Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe1-7cb1-5d09-b050967913b2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe1-73bc-f2f1-73224084b959",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Watermill Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe1-72b5-eeab-6a4d23785317"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe1-718c-e258-0afd128d12f5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Well Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe1-7db5-02c2-438048919b84"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe1-7a9a-539e-23d6821966a3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Windmill Top Fan Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe1-738c-e09c-bf765b8feb6a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe1-7c98-6487-6cd6e685d38e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Windmill Top Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe2-7c8d-68d6-f274ac27b7d8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe2-7dbd-be37-3f0d640162fa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Windmill Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe2-7ab7-f973-58c63bc411b2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe2-7f9f-98ee-a99c354d0052",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Archeryrange Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe2-7594-5ffc-95391b323e26"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe2-7880-30ec-36a72dabbbda",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Barracks Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe2-77a3-a3da-b3a205014445"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe2-7b95-fc3c-624836000111",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Blacksmith Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe2-7499-4aa4-4919a9374794"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe2-7397-69a0-1381eff80715",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Castle Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe2-759c-d392-1742633f37d3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe2-7a9d-eafd-501eb586f868",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Church Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe2-76ac-336a-a8ac050fe306"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe2-7588-7860-851a6e48b80b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Home A Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe2-7eb6-0ff6-f4ead71601cc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe2-7c89-6140-cf1d7f5d8c6b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Home B Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe2-7fb6-58c8-e961861ab05b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe2-7d9b-9543-c19d2754b79a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Lumbermill Saw Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe2-77b5-516c-5b8538f4938a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe2-7b9b-52bf-824ffe2053c7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Lumbermill Top Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe2-7587-ae70-c9829fe7051b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe2-75ac-866f-2220c5bacb0c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Lumbermill Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe2-76ac-7f08-77b2a0b42e76"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe3-778b-bf0d-de2b260dc474",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Market Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe3-72a3-5338-436fad3c84d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe3-7abd-f55a-2ea32a90b51c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Mine Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe3-78a6-5e20-5ebe0bd7ad41"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe3-7cbd-ad46-a5c4ccf78e1e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tavern Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe3-77b7-a6e5-e23675e64277"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe3-7eb8-bd88-5f5875ee73d3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower A Top Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe3-7f9c-38c8-6dd5648dc308"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe3-7c99-f68a-ef748f91e589",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower A Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe3-7985-7929-13c34c071abf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe3-739d-34c6-87811cdac42e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower B Top Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe3-7181-010a-c8e6555b08e7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe3-7583-7593-831d3a453f60",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower B Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe3-75a2-8cb8-72e8cd4c736d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe3-78a4-8ab8-56e6e4d67df4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower Base Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe3-7b85-bd90-0cf8a0bf8ea3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe3-708b-9566-882b1462432a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Catapult Arm Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe3-77bd-e3aa-53eca528a603"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe3-76b2-1187-d3b424c2e839",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Catapult Turret Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe3-70a5-5cea-32b5858c2202"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe3-709e-b825-beb410320020",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower Catapult Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe3-708c-d2ed-c9d42caf9a1d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe3-7893-df40-fd6ae2916078",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Watermill Wheel Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe4-70bf-1c61-f17809475d06"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe4-7ab5-daaa-33bf0890f399",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Watermill Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe4-799f-26c5-10ae8fc861e1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe4-76a1-2066-e481e0298589",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Well Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe4-79bb-4a48-b9afc32d53b9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe4-7496-761b-74c018038fb2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Windmill Top Fan Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe4-7cb8-ab78-97bee2c58633"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe4-7fac-8639-5fd65567969b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Windmill Top Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe4-738d-09c3-e3286a7f5f99"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe4-7793-664f-beb5099812af",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Windmill Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe4-7098-fb55-808269e3abc9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe4-7ca5-446e-103babcf732f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Bridge A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe4-7ea7-c8da-0ebed6608689"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe4-73af-a678-30855be0ae78",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Bridge B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe4-7f8e-16ed-cc6eacff2036"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe4-74a4-9a09-8499434a40ed",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Destroyed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe4-729f-fb72-3b9388304131"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe4-7f86-3d1e-829ee937e799",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Dirt"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe4-75ac-8722-1785c101840c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe4-74b6-9721-5f1022f7934c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Grain"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe5-71a5-4272-f7962eddb848"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe5-7c8f-6248-7a4a15a7d592",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Scaffolding"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe5-7a90-4643-85bd164a1e3d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe5-7880-e8c7-8cc44392a040",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Stage A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe5-79a6-d3f7-3a02995663ca"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe5-75a1-fcdc-920a95df2f6b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Stage B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe5-76a9-0009-df33ad8cc9ec"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe5-75a9-2fc5-7a2b1fa12331",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Stage C"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe5-7087-7c4b-fddeac984e47"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe5-7ca5-36bb-cb6b7941bbd5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Stone Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe5-7e93-4bc0-ba8ccf0ae79c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe5-7dad-2c0e-4223d19b19ba",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Stone Straight Door"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe5-7095-b25b-24540981f240"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe5-7b8f-056c-0d037cbd5fe6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Stone Straight Gate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe5-78a8-6d35-44667914604a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe5-7987-fe01-651b1eb5b293",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Wood Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe5-71a0-80c7-e1b133850338"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe5-7fac-0f14-bfc3a212c84f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Wood Straight Door"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe6-749c-558f-b5c8fadfe6ed"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe6-7089-2838-c164525b65f3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Fence Wood Straight Gate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe6-7da9-9fcb-642d09f8ba26"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe6-74aa-edda-4f9f0a2c176e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Projectile Catapult"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe6-708a-2263-613b7ca1871a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe6-7ba1-7cc9-9c8e476c1269",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Corner A Gate Door Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe6-7e97-ac68-0cc9dc572694"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe6-7a9e-308d-6958c65ddc9f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Corner A Gate Door Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe6-7d9e-d73b-972b10314b56"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe6-7f96-fdfc-6bfb4f9bceed",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Corner A Gate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe6-71ab-01c4-84474626d080"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe6-759a-061f-d379a5fc141c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Corner A Inside"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe6-7191-6807-00dbeeb93d6a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe6-74a7-5715-d1a9e0ddc824",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Corner A Outside"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe6-7d92-0fb3-aba1e70ba865"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe6-7c8a-1a32-7e104d167698",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Corner B Inside"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe6-70aa-35fc-8e9d8fdf6217"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe6-76b8-17c3-b098e2883741",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Corner B Outside"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe6-7cae-a039-a501f7b45412"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe6-7781-27b5-fa702baef9df",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe6-74ad-f8eb-d17266812533"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe6-7da8-52cd-24144c88a038",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Straight Gate Door Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe6-7faa-e429-a9f478993632"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe6-738d-8cfb-ff9a91ce2512",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Straight Gate Door Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe7-72ab-22d4-905eddedda89"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe7-76b5-adc8-7e1c0178854e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Straight Gate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe7-78ad-067b-86c7fc9f7310"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe7-75a0-fc57-9ec768274fd8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Archeryrange Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe7-7299-248a-7aa2ff94255d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe7-778f-312a-d7d1afa0aeb2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Barracks Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe7-7493-168e-7460c7fa7f02"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe7-7590-4ec1-0a7b9dd50244",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Blacksmith Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe7-749c-e72b-597719161e7c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe7-78aa-0fda-d30903b646f1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Castle Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe7-70a9-3088-d81347524c69"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe7-7ea0-b909-ef8c79f07d0a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Church Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe7-79b8-03a3-b158303f3eb4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe7-7f8a-a186-e22fbce7f075",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Home A Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe7-7db4-0f0e-837a6deb0c55"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe7-759d-7ede-f1d295f9dab3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Home B Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe7-70a5-fc03-2fd79036709e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe7-7ba2-c096-7b82bd6848e9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Lumbermill Saw Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe7-7aab-74b0-547fde3d7004"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe7-79ad-acbd-6d0e61c3e73e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Lumbermill Top Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe7-78bb-f921-9b89994af69b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe7-7c96-eac1-086610d23eaa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Lumbermill Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe7-7297-ab50-6dd966e084f0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe7-7c8c-527b-4cd65f20042b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Market Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe8-79bf-b4b0-fa2d22c42431"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe8-77a8-6476-4db05c308c0c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Mine Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe8-70ae-f66e-9e0149513fad"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe8-798a-d6f9-0b059a042989",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tavern Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe8-7495-2797-9bd9eca16438"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe8-76bd-9209-19a5ee0110e3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower A Top Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe8-7fb8-cd34-dfd0b61977cc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe8-78b3-9f74-7c82b596c155",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower A Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe8-7e8d-fce1-94b3da970f0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe8-7f8e-d09b-025cf8af4b73",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower B Top Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe8-788e-efe8-03d1d5dcd5f9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe8-75a3-e266-1513293a36cf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower B Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe8-728b-281d-1c4c355c6795"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe8-7e88-1302-c1c71ab24bc0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower Base Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe8-7b81-a194-0cd3acb52e48"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe9-74b4-01a5-cb67d18723ce",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Catapult Arm Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe9-70bd-f049-0b9eda86ee29"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe9-7386-7037-404ab8e5c00e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Catapult Turret Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe9-728a-87b4-b533d2fdf550"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe9-79a5-7b9a-dadc1b4c5244",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower Catapult Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe9-7e8c-7dd5-a02e85b699c8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe9-7697-0cda-f51c6fae9742",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Watermill Wheel Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe9-72a2-8fd4-741173547ac8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe9-7f82-e030-7823e587825b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Watermill Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe9-7c93-43cc-d3a3d46f32f8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe9-738a-74b0-5c91f64d83d7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Well Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe9-7db9-44be-5d08091f3002"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe9-7596-75e5-9e1552324f32",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Windmill Top Fan Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe9-71b3-0938-6b84df1473e2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe9-79b0-7eb2-de3ef299d321",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Windmill Top Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe9-7b8a-9640-cd57edd359c8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe9-7fbc-9437-0132aefd6691",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Windmill Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe9-7289-e383-ec44e0f42696"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe9-71be-fd00-72aa09844014",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Archeryrange Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfe9-7ea8-b1d5-135e0649f78b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfe9-7b97-87d0-2456153774dc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Barracks Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfea-7e9a-7578-51847af408f3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfea-738a-a3d6-7f7e78cbd28b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Blacksmith Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfea-7fad-ddae-5a8c6dff2a78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfea-76b0-61f6-b9630d08fd02",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Castle Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfea-73bb-18ec-e53de5d18e29"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfea-7e86-649b-f6b542444025",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Church Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfea-728c-a538-39f1063d4a52"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfea-71b0-97b3-3488db21ba7d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Home A Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfea-7fa9-4555-3883b97aca85"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfea-77bf-1b2b-87922f885ea0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Home B Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfea-7884-808e-c19c5d63dd65"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfea-7a98-118a-55c0e19202ff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Lumbermill Saw Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfea-729c-fb77-ecff048e168f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfea-71b1-4ce7-d27c9702fceb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Lumbermill Top Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfea-7d91-29f1-3012582aacb5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfea-74a1-f0b2-e034935e8983",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Lumbermill Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfea-78ae-8145-8d8ac9fd4e0c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfea-71bb-455b-270af8c2777e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Market Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfea-79a0-bd1c-656685198bd2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfea-7488-4542-259188701127",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Mine Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfeb-7abe-8479-79104d607c1d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfeb-75b4-eae7-3327d6e60548",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tavern Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfeb-7ead-0dd5-b9ffe26e32f9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfeb-73a7-696e-d72bc9e25ff2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower A Top Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfeb-7a8d-c1f7-2bb284622c88"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfeb-73a4-ccae-2a9a5f206c38",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower A Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfeb-749e-1da6-e260eba411ad"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfeb-7e86-d3fb-d5e0814fe044",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower B Top Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfeb-7f85-38f6-d3c9912decd1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfeb-72aa-41c1-3d9694b25813",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower B Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfeb-7497-7e02-5379177c201a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfeb-78bf-53f9-cf0ba4d987f3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower Base Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfeb-76a2-ac7e-c0c9646c0680"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfeb-7580-2909-0c886267f763",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Catapult Arm Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfeb-758f-7c55-eccf2241a934"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfeb-7fb4-5618-9fffe4e50726",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Catapult Turret Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfeb-758b-5d15-c2cc311054ec"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfeb-7bb0-b2a0-5e51e71faa46",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Tower Catapult Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfeb-75b8-f40b-0031fd0a2f66"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfeb-7290-97cf-3f7b160fc404",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Watermill Wheel Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfec-79bf-e6f3-12614dfcc96d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfec-78b2-2675-cc23d7daad8e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Watermill Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfec-7e8e-9d8d-12b6220bcbb6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfec-74b3-f60a-94f0a395dac8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Well Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfec-7082-0ad7-22cac1d2a432"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfec-7bac-cd30-3e0c73b15a93",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Windmill Top Fan Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfec-7cb4-6f25-a29fcec2be2c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfec-7db9-9ca8-d38f828bd700",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Windmill Top Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfec-7eae-e69a-27fe219cb322"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfec-7699-a373-4e0aaacdf3e8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Building Windmill Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfec-7d9c-e789-f6ff38696a17"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfec-7991-5edd-4efdb089818e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Grass"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfec-7f89-b588-54ecf9073333"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfec-7db3-90b2-d944cf2b1d04",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Grass Bottom"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfec-78b9-315e-ca9a0aaa75d9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfec-7f9d-871b-d8d7f4f6dbe4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Grass Sloped High"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfed-74b7-e3ad-8bad158ae1a3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfed-7985-43eb-616d74f45a82",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Grass Sloped Low"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfed-7e85-e063-ef88eaef10f8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfed-7cb0-d6c8-bf63dc606bd4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Water"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfed-728d-457e-428217c40f37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfed-739d-c11b-a4e4c03fd292",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Coast A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfed-7e8d-89f0-547bda743586"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfed-718d-7b9f-a654075ed2d0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Coast B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfed-76a6-a00f-f006426d15f7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfed-74bb-dfcd-b681912b7b31",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Coast C"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfed-7591-a473-75fa6c5965c9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfed-759e-af7e-992d1fe38ed5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Coast D"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfed-7baf-2bb6-bf889136b38f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfed-7081-0fff-fe86a9c61725",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Coast E"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfed-76a8-71e9-532419d29c15"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfed-799f-2003-2cf997d1a1e1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Coast A Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfed-70af-2f88-e5c77b3ce68b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfed-7089-3e9c-b693e1104396",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Coast B Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfed-71bd-e631-07440456ae8d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfed-70a9-4bff-4fe0f271f5e6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Coast C Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfee-7c8d-bfbb-cf16749edd0d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfee-7abc-7108-b447b4ba5f5b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Coast D Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfee-7cb4-9d94-1fcadd058dd3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfee-7f98-fd7f-1019586a9d4d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Coast E Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfee-7d8d-d15a-44359789b8f2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfee-7b96-b988-3e225b7e4e49",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfee-7896-d761-4d4aab8d7f3c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfee-77b1-188f-e08034408a3f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River A Curvy"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfee-78a6-6223-7fbaaa3d73cb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfee-7098-efe2-0b8ee53f0e4b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfee-7399-2114-12cda931ea28"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfee-7195-da99-ec7394021939",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River C"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfee-799a-e6c2-4de3c90418df"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfee-7cb4-2c27-4f2a238b9769",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River Crossing A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfef-73b0-c5ea-82c2727ccf85"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfef-7fa2-87e8-66650cbe3c9c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River Crossing B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfef-74b0-bb96-02d1e0df7b70"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfef-7a90-3277-d8f569997773",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River D"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfef-76a7-36f6-bb0d4ec00761"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfef-78a8-0113-a296b19ffab9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River E"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfef-7fa0-8615-7e8039c482e8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfef-7283-a838-ba012d14084c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River F"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfef-728a-80cf-d5380e435ccf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfef-72a4-9484-d7d7a9729099",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River G"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfef-73af-7292-c1543bec830a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfef-71a2-af10-503dbdf693f4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River H"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bfef-799b-e6b8-f9e7d09f0241"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bfef-7da1-98bf-69303a147c0e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River I"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff0-7482-a362-8edc1585f558"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff0-77b1-5930-bf5e9496abaf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River J"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff0-7288-7e1b-3986ce09c8cd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff0-7786-5e83-227741a7955b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River K"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff0-718d-69d3-cce8afa1bccb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff0-79a3-a1e3-4768c9669686",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River L"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff0-7389-4a4d-cd3a0201f58f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff0-7b93-fa5a-7d6c7e0ba57b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River A Curvy Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff0-7dbb-291c-0ffa581046db"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff0-7ab3-1f55-9882fa62fa2f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River A Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff0-75b8-71fa-a1a4bad9d8aa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff0-7da0-890c-f619d3c76fd3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River B Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff0-73ac-a5f1-f7ebcf180476"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff0-7b99-8da0-293b2bda0acf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River C Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff0-7aad-ae8b-f95e25c8f4f8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff0-799a-8e4c-957e15b5f1c6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River Crossing A Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff1-719b-4065-6f205b8f6556"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff1-7aaf-363c-2760c23fd787",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River Crossing B Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff1-7089-bd9b-195119404004"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff1-7f90-bc07-d83cd221c41d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River D Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff1-7b8f-e90a-ce1f60c8da79"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff1-7597-bca2-07341ece83fa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River E Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff1-748d-6ccf-131416b5c41d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff1-7a92-3d7a-91a0068770c0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River F Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff1-798e-8d67-348af05b83dd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff1-7a97-b068-447c7b38d0d1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River G Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff1-7a9c-9df5-6da923969c38"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff1-7aa1-63ba-c96f59254741",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River H Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff1-739f-cbb7-3cd03ad278f4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff1-7eb8-c92a-37043b98da72",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River I Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff1-7b9c-8e23-98e49632b577"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff2-7b99-41e6-34c22c7100bd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River J Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff2-73b2-e6a1-646c21d2f427"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff2-7781-6163-8a71528421c1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River K Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff2-759d-103a-ba7ae5dd981f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff2-70ad-575f-e187494aad84",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex River L Waterless"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff2-7fa3-53b8-67a86aa3795a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff2-71b5-b25c-ea34779a39cb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff2-7890-f957-17aa5cfbf6ed"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff2-70ba-fadf-244832397a65",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road A Sloped High"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff2-72ad-daa6-a0d97a2f7b01"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff2-7490-2087-4303dc0f1339",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road A Sloped Low"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff2-7fa9-1b68-b8c3e074e3cf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff2-7e8a-b602-ae62f2425f83",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff2-7dbf-6b32-156c60dc49b1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff2-7d9c-0359-2b71d8d94a79",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road C"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff2-739f-c05a-5fbe1278f7fc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff2-7286-3ff6-d2f258b89e90",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road D"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff3-7aad-3bfc-8e0e3c6a200b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff3-77a5-6a50-8bdde83a1028",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road E"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff3-7a8b-bc73-5e3028d3b52d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff3-7ca3-af2f-c115391ff2fa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road F"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff3-74a7-3a8d-0178164debfd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff3-7e9d-b122-e3a4028364f6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road G"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff3-7bba-73ba-88216ced7d6f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff3-748c-4e71-06ee02ae5572",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road H"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff3-71a6-b41e-1e2629d9458b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff3-739c-12d5-dbccbf673cf5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road I"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff3-73ba-d6c1-71eedd0d5642"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff3-7ebc-90a3-370e2b29d1a1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road J"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff3-7b98-0988-2a288ce79274"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff3-7897-be84-0af7b931b79b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road K"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff4-759d-6ebd-4394e6695922"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff4-78a5-6f45-52625167625e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road L"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff4-78aa-5fae-8c41147faa82"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff4-7fbd-0b17-51c5e6849982",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hex Road M"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff4-7bb9-153f-304ba3585a08"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff5-78be-3bc7-18f5a78e032b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cloud Big"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff5-779a-3dcd-27b56650db5c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff5-73b4-7427-76c0492539ec",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cloud Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff5-7092-cdfa-278d09661924"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff5-7ebf-f589-a0b3a8ad7ef7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hill Single A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff5-7a94-0085-19a748ea8a2c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff5-7fb7-8d8d-56546723f7fa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hill Single B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff5-7d97-9712-4b58dc06da6d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff6-72b1-2e14-f98d657bfe75",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hill Single C"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff7-78b4-1bf1-0c54732d7578"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff7-77ab-64e6-28c867e8470a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hills A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff7-7cbe-3b35-f20c37c9c511"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff7-7dac-869c-16b578044a79",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hills A Trees"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff7-7098-3759-b877c9b97917"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff7-7c97-827e-9cc30f20047b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hills B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff7-7999-36ba-866e6b130184"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff7-748a-1fbd-608268a3850b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hills B Trees"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff7-76b5-9a1f-18f3c84cfa24"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff7-769b-5118-73299d90f9bf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hills C"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff8-7590-fb1b-2cb2e50fb39b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff8-7183-4f5a-66ab619aa814",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hills C Trees"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff8-7487-c9ab-5fbba70abde3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff8-7aaa-878b-f35cd32e07f6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mountain A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff8-759e-dcbd-308fd7b2ceab"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff8-74a8-28d0-aae4f316fcbe",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mountain A Grass"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff8-7293-51f3-669d01001efa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff8-7ab9-cd78-de5c9f92c0df",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mountain A Grass Trees"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff8-7e9f-6990-15c6f02d5bfd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff8-7d9b-479c-096d321b4e6d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mountain B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff8-76b6-e4dd-00d54fa69013"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff8-77bd-c268-3b47db6402ec",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mountain B Grass"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff8-7490-6dae-0d39b3a5c1dc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff8-7aa5-7934-cf8580309e5c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mountain B Grass Trees"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff9-7e83-55f1-d9736bc49bf2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff9-78af-5e5c-e4b0d173daca",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mountain C"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff9-7b80-a690-7e48a086bc83"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff9-7fbf-e788-47df626a928b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mountain C Grass"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff9-7881-3a50-aae122106abd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff9-7f92-a38e-4776564ce4e3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mountain C Grass Trees"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff9-7dbf-322a-2e3822654e1e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff9-719a-722b-2c3d8789c327",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Single A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff9-7ab2-c402-173553075d88"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff9-7089-a774-93e34797b77d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Single B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff9-7695-7a35-25b1ed7b0254"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff9-769c-e0c6-a06e27cc4932",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Single C"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bff9-7cb3-9151-298608659935"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bff9-7baa-2bf0-e58520f59f42",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Single D"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffa-7882-da28-0c32fc009836"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffa-7e90-0d3a-809c8fbf8411",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rock Single E"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffa-71bd-0998-ea99dd3226f9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffa-76a3-57bc-4008ae1c2deb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Single A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffa-7e92-8fe1-72baf107b7fb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffa-7d8c-3a6e-88dc19b62f5c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Single A Cut"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffa-7a8b-4a0b-3c64b2a5c88f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffa-7a88-6b2e-c78ce03f3acd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Single B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffa-7795-5581-3b83a6469e9d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffa-7786-bdc5-0344534c3220",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Single B Cut"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffa-7681-427f-e31cdc6b9070"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffa-72a7-f28b-f58bd373d964",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trees A Cut"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffa-7490-2850-2fc408008444"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffa-7881-3736-178044334cff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trees A Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffb-778a-b7c9-4adbfa09b68c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffb-77aa-7965-fcc77d374676",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trees A Medium"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffb-78be-80a0-6dab0091a129"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffb-79ba-e5bf-1558e1adede8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trees A Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffb-768a-95a4-e1a7f6b6765f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffb-7086-86cb-536ea75eb3c5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trees B Cut"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffb-7a8d-65e3-dbea5af3e1a6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffb-7888-d6ce-6e724c857939",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trees B Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffb-73b9-7544-fed8c6c4bd2b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffb-7fbf-0a6f-a284821ef979",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trees B Medium"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffb-75b0-9a56-4a4fb06ac235"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffb-72bb-3161-4c75516550ba",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trees B Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffb-7584-2ab3-bc254f308f74"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffb-7f8d-8899-ea3d3a9e74b9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Waterlily A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffb-7ab0-af76-dfc51851c909"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffb-7ead-eb90-8f549daa0824",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Waterlily B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffb-7899-0ab3-4927917e6c01"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffb-76b3-acda-018ba0d4c3ff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Waterplant A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffb-7a8d-796b-fd53d4358dbf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffb-7081-601e-347416035102",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Waterplant B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffc-7598-9a23-bdce844c4b48"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffc-7fb5-4535-82d085ca86fb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Waterplant C"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffc-71b9-dd0f-acbe9e0d7270"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffc-75a7-bb3f-de9553e4869b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Barrel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffc-7b81-82d3-50d43e48b074"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffc-7c8b-16e7-72899af98b33",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bucket Arrows"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffc-7f98-8d7f-427f97b73c59"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffc-7c87-4d62-25409a75a577",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bucket Empty"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffc-72b5-77ad-6aa7b5021f53"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffc-7fa6-8c7a-792d641ee83c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bucket Water"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffc-7b9d-f247-58ecead5cba7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffc-7491-3f35-9404e4093f10",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate A Big"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffc-7394-58c0-ac3fc6182f46"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffc-71a6-08c2-0ea70b7cd612",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate A Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffc-729d-27de-5644cd794a1b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffc-76ac-789f-7b2ccbf925b6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate B Big"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffc-7b9e-e783-dc9d7018d31f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffc-7aba-1946-22b3572c3956",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate B Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffc-7e8e-24c6-2f2103f2b292"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffd-7c82-0b3e-666dec45d39e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Long A"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffd-7498-8269-1a42088c451a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffd-7daa-4517-0932d43f5553",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Long B"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffd-7e80-c915-0dcaea12da16"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffd-768b-ed98-0c92ea42392e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Long C"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffd-7180-eebe-bbbdc50cc976"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffd-76bb-c6d1-59d03e95984c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Long Empty"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffd-79a4-fb23-1c2e4c1ec9cc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffd-739a-a370-82ccaa84451e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Crate Open"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffd-7fb4-6c84-86329daf02f4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffd-70bf-161d-c157ab424787",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flag Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffd-739d-1bd9-5282c8f64618"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffd-7fb7-31f7-5dd487996c0b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flag Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffd-718e-43ec-8a15274b8e6c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffd-7d85-d300-f9bf2c10a8d6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flag Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffd-709b-4d32-cc91a8dd1511"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffd-7cac-fccf-8250ba16bedd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flag Yellow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffd-7797-01fb-15984aab854b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffd-748d-26a5-95bb073007cc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ladder"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffd-768f-24be-1bfc2a20451f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffd-79b2-6200-217e21a314c7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pallet"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffd-7aa9-5b54-62cf50a3115e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffe-7cb1-5c61-457a991a2d54",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Resource Lumber"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffe-72b4-28df-09d77720f22d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffe-75a5-b9b1-06cd45281f64",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Resource Stone"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffe-7c86-6253-ab738f474bfb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffe-7bac-381e-8c44d87f9606",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sack"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffe-7b9f-93ae-15b23965734c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffe-7f9a-4e3f-69f67a440d5a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Target"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffe-769f-a6a2-330576836726"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffe-73a9-5b60-8603240c14e6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tent"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffe-7b93-9e53-fbc61deff9af"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffe-7897-6fef-dee977de1698",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Weaponrack"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffe-779f-5fab-d686c31f1b54"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0193b262-bffe-79af-25df-d73d9e3cc993",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheelbarrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0193b262-bffe-748a-b880-6c324b37bacf"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "0193b262-beeb-769c-b95a-c71252c02f3e"
+    },
+    "dependencies": [
+        "0193b262-bfd1-7f9a-fdd9-335fae12de36",
+        "0193b262-bfe0-72a7-fd78-6b2bed34ce20",
+        "0193b262-bfe0-7f96-8fc7-ad6b13d95065",
+        "0193b262-bfe0-7098-610e-41d46601a315",
+        "0193b262-bfe0-7d8d-20d1-0c6777b1c8ab",
+        "0193b262-bfe0-719f-b121-8f234e85ca3e",
+        "0193b262-bfe0-73a2-c794-fab64e4118d8",
+        "0193b262-bfe0-77a3-8e10-471cca037438",
+        "0193b262-bfe0-7f8d-da3a-2cb758f1b249",
+        "0193b262-bfe0-79a5-0a36-3d859a358cde",
+        "0193b262-bfe0-7e87-2f2e-05c3f7bf90c6",
+        "0193b262-bfe0-7bb9-b607-4d91afd714e3",
+        "0193b262-bfe0-79bb-9856-a1c5d26433ca",
+        "0193b262-bfe1-7ba0-1b87-95f7f81b506e",
+        "0193b262-bfe1-70b4-e57c-9c2b24a3ab5c",
+        "0193b262-bfe1-7397-eaa7-2e804417810a",
+        "0193b262-bfe1-7187-6dd2-b4187c761d0b",
+        "0193b262-bfe1-7ea7-fc0e-3080856da42e",
+        "0193b262-bfe1-71af-6b2f-b1272cbc3a2c",
+        "0193b262-bfe1-718c-3169-b432bcf7178a",
+        "0193b262-bfe1-7bbe-bfa2-c1fe11b990e1",
+        "0193b262-bfe1-7cb1-5d09-b050967913b2",
+        "0193b262-bfe1-72b5-eeab-6a4d23785317",
+        "0193b262-bfe1-7db5-02c2-438048919b84",
+        "0193b262-bfe1-738c-e09c-bf765b8feb6a",
+        "0193b262-bfe2-7c8d-68d6-f274ac27b7d8",
+        "0193b262-bfe2-7ab7-f973-58c63bc411b2",
+        "0193b262-bfe2-7594-5ffc-95391b323e26",
+        "0193b262-bfe2-77a3-a3da-b3a205014445",
+        "0193b262-bfe2-7499-4aa4-4919a9374794",
+        "0193b262-bfe2-759c-d392-1742633f37d3",
+        "0193b262-bfe2-76ac-336a-a8ac050fe306",
+        "0193b262-bfe2-7eb6-0ff6-f4ead71601cc",
+        "0193b262-bfe2-7fb6-58c8-e961861ab05b",
+        "0193b262-bfe2-77b5-516c-5b8538f4938a",
+        "0193b262-bfe2-7587-ae70-c9829fe7051b",
+        "0193b262-bfe2-76ac-7f08-77b2a0b42e76",
+        "0193b262-bfe3-72a3-5338-436fad3c84d1",
+        "0193b262-bfe3-78a6-5e20-5ebe0bd7ad41",
+        "0193b262-bfe3-77b7-a6e5-e23675e64277",
+        "0193b262-bfe3-7f9c-38c8-6dd5648dc308",
+        "0193b262-bfe3-7985-7929-13c34c071abf",
+        "0193b262-bfe3-7181-010a-c8e6555b08e7",
+        "0193b262-bfe3-75a2-8cb8-72e8cd4c736d",
+        "0193b262-bfe3-7b85-bd90-0cf8a0bf8ea3",
+        "0193b262-bfe3-77bd-e3aa-53eca528a603",
+        "0193b262-bfe3-70a5-5cea-32b5858c2202",
+        "0193b262-bfe3-708c-d2ed-c9d42caf9a1d",
+        "0193b262-bfe4-70bf-1c61-f17809475d06",
+        "0193b262-bfe4-799f-26c5-10ae8fc861e1",
+        "0193b262-bfe4-79bb-4a48-b9afc32d53b9",
+        "0193b262-bfe4-7cb8-ab78-97bee2c58633",
+        "0193b262-bfe4-738d-09c3-e3286a7f5f99",
+        "0193b262-bfe4-7098-fb55-808269e3abc9",
+        "0193b262-bfe4-7ea7-c8da-0ebed6608689",
+        "0193b262-bfe4-7f8e-16ed-cc6eacff2036",
+        "0193b262-bfe4-729f-fb72-3b9388304131",
+        "0193b262-bfe4-75ac-8722-1785c101840c",
+        "0193b262-bfe5-71a5-4272-f7962eddb848",
+        "0193b262-bfe5-7a90-4643-85bd164a1e3d",
+        "0193b262-bfe5-79a6-d3f7-3a02995663ca",
+        "0193b262-bfe5-76a9-0009-df33ad8cc9ec",
+        "0193b262-bfe5-7087-7c4b-fddeac984e47",
+        "0193b262-bfe5-7e93-4bc0-ba8ccf0ae79c",
+        "0193b262-bfe5-7095-b25b-24540981f240",
+        "0193b262-bfe5-78a8-6d35-44667914604a",
+        "0193b262-bfe5-71a0-80c7-e1b133850338",
+        "0193b262-bfe6-749c-558f-b5c8fadfe6ed",
+        "0193b262-bfe6-7da9-9fcb-642d09f8ba26",
+        "0193b262-bfe6-708a-2263-613b7ca1871a",
+        "0193b262-bfe6-7e97-ac68-0cc9dc572694",
+        "0193b262-bfe6-7d9e-d73b-972b10314b56",
+        "0193b262-bfe6-71ab-01c4-84474626d080",
+        "0193b262-bfe6-7191-6807-00dbeeb93d6a",
+        "0193b262-bfe6-7d92-0fb3-aba1e70ba865",
+        "0193b262-bfe6-70aa-35fc-8e9d8fdf6217",
+        "0193b262-bfe6-7cae-a039-a501f7b45412",
+        "0193b262-bfe6-74ad-f8eb-d17266812533",
+        "0193b262-bfe6-7faa-e429-a9f478993632",
+        "0193b262-bfe7-72ab-22d4-905eddedda89",
+        "0193b262-bfe7-78ad-067b-86c7fc9f7310",
+        "0193b262-bfe7-7299-248a-7aa2ff94255d",
+        "0193b262-bfe7-7493-168e-7460c7fa7f02",
+        "0193b262-bfe7-749c-e72b-597719161e7c",
+        "0193b262-bfe7-70a9-3088-d81347524c69",
+        "0193b262-bfe7-79b8-03a3-b158303f3eb4",
+        "0193b262-bfe7-7db4-0f0e-837a6deb0c55",
+        "0193b262-bfe7-70a5-fc03-2fd79036709e",
+        "0193b262-bfe7-7aab-74b0-547fde3d7004",
+        "0193b262-bfe7-78bb-f921-9b89994af69b",
+        "0193b262-bfe7-7297-ab50-6dd966e084f0",
+        "0193b262-bfe8-79bf-b4b0-fa2d22c42431",
+        "0193b262-bfe8-70ae-f66e-9e0149513fad",
+        "0193b262-bfe8-7495-2797-9bd9eca16438",
+        "0193b262-bfe8-7fb8-cd34-dfd0b61977cc",
+        "0193b262-bfe8-7e8d-fce1-94b3da970f0d",
+        "0193b262-bfe8-788e-efe8-03d1d5dcd5f9",
+        "0193b262-bfe8-728b-281d-1c4c355c6795",
+        "0193b262-bfe8-7b81-a194-0cd3acb52e48",
+        "0193b262-bfe9-70bd-f049-0b9eda86ee29",
+        "0193b262-bfe9-728a-87b4-b533d2fdf550",
+        "0193b262-bfe9-7e8c-7dd5-a02e85b699c8",
+        "0193b262-bfe9-72a2-8fd4-741173547ac8",
+        "0193b262-bfe9-7c93-43cc-d3a3d46f32f8",
+        "0193b262-bfe9-7db9-44be-5d08091f3002",
+        "0193b262-bfe9-71b3-0938-6b84df1473e2",
+        "0193b262-bfe9-7b8a-9640-cd57edd359c8",
+        "0193b262-bfe9-7289-e383-ec44e0f42696",
+        "0193b262-bfe9-7ea8-b1d5-135e0649f78b",
+        "0193b262-bfea-7e9a-7578-51847af408f3",
+        "0193b262-bfea-7fad-ddae-5a8c6dff2a78",
+        "0193b262-bfea-73bb-18ec-e53de5d18e29",
+        "0193b262-bfea-728c-a538-39f1063d4a52",
+        "0193b262-bfea-7fa9-4555-3883b97aca85",
+        "0193b262-bfea-7884-808e-c19c5d63dd65",
+        "0193b262-bfea-729c-fb77-ecff048e168f",
+        "0193b262-bfea-7d91-29f1-3012582aacb5",
+        "0193b262-bfea-78ae-8145-8d8ac9fd4e0c",
+        "0193b262-bfea-79a0-bd1c-656685198bd2",
+        "0193b262-bfeb-7abe-8479-79104d607c1d",
+        "0193b262-bfeb-7ead-0dd5-b9ffe26e32f9",
+        "0193b262-bfeb-7a8d-c1f7-2bb284622c88",
+        "0193b262-bfeb-749e-1da6-e260eba411ad",
+        "0193b262-bfeb-7f85-38f6-d3c9912decd1",
+        "0193b262-bfeb-7497-7e02-5379177c201a",
+        "0193b262-bfeb-76a2-ac7e-c0c9646c0680",
+        "0193b262-bfeb-758f-7c55-eccf2241a934",
+        "0193b262-bfeb-758b-5d15-c2cc311054ec",
+        "0193b262-bfeb-75b8-f40b-0031fd0a2f66",
+        "0193b262-bfec-79bf-e6f3-12614dfcc96d",
+        "0193b262-bfec-7e8e-9d8d-12b6220bcbb6",
+        "0193b262-bfec-7082-0ad7-22cac1d2a432",
+        "0193b262-bfec-7cb4-6f25-a29fcec2be2c",
+        "0193b262-bfec-7eae-e69a-27fe219cb322",
+        "0193b262-bfec-7d9c-e789-f6ff38696a17",
+        "0193b262-bfec-7f89-b588-54ecf9073333",
+        "0193b262-bfec-78b9-315e-ca9a0aaa75d9",
+        "0193b262-bfed-74b7-e3ad-8bad158ae1a3",
+        "0193b262-bfed-7e85-e063-ef88eaef10f8",
+        "0193b262-bfed-728d-457e-428217c40f37",
+        "0193b262-bfed-7e8d-89f0-547bda743586",
+        "0193b262-bfed-76a6-a00f-f006426d15f7",
+        "0193b262-bfed-7591-a473-75fa6c5965c9",
+        "0193b262-bfed-7baf-2bb6-bf889136b38f",
+        "0193b262-bfed-76a8-71e9-532419d29c15",
+        "0193b262-bfed-70af-2f88-e5c77b3ce68b",
+        "0193b262-bfed-71bd-e631-07440456ae8d",
+        "0193b262-bfee-7c8d-bfbb-cf16749edd0d",
+        "0193b262-bfee-7cb4-9d94-1fcadd058dd3",
+        "0193b262-bfee-7d8d-d15a-44359789b8f2",
+        "0193b262-bfee-7896-d761-4d4aab8d7f3c",
+        "0193b262-bfee-78a6-6223-7fbaaa3d73cb",
+        "0193b262-bfee-7399-2114-12cda931ea28",
+        "0193b262-bfee-799a-e6c2-4de3c90418df",
+        "0193b262-bfef-73b0-c5ea-82c2727ccf85",
+        "0193b262-bfef-74b0-bb96-02d1e0df7b70",
+        "0193b262-bfef-76a7-36f6-bb0d4ec00761",
+        "0193b262-bfef-7fa0-8615-7e8039c482e8",
+        "0193b262-bfef-728a-80cf-d5380e435ccf",
+        "0193b262-bfef-73af-7292-c1543bec830a",
+        "0193b262-bfef-799b-e6b8-f9e7d09f0241",
+        "0193b262-bff0-7482-a362-8edc1585f558",
+        "0193b262-bff0-7288-7e1b-3986ce09c8cd",
+        "0193b262-bff0-718d-69d3-cce8afa1bccb",
+        "0193b262-bff0-7389-4a4d-cd3a0201f58f",
+        "0193b262-bff0-7dbb-291c-0ffa581046db",
+        "0193b262-bff0-75b8-71fa-a1a4bad9d8aa",
+        "0193b262-bff0-73ac-a5f1-f7ebcf180476",
+        "0193b262-bff0-7aad-ae8b-f95e25c8f4f8",
+        "0193b262-bff1-719b-4065-6f205b8f6556",
+        "0193b262-bff1-7089-bd9b-195119404004",
+        "0193b262-bff1-7b8f-e90a-ce1f60c8da79",
+        "0193b262-bff1-748d-6ccf-131416b5c41d",
+        "0193b262-bff1-798e-8d67-348af05b83dd",
+        "0193b262-bff1-7a9c-9df5-6da923969c38",
+        "0193b262-bff1-739f-cbb7-3cd03ad278f4",
+        "0193b262-bff1-7b9c-8e23-98e49632b577",
+        "0193b262-bff2-73b2-e6a1-646c21d2f427",
+        "0193b262-bff2-759d-103a-ba7ae5dd981f",
+        "0193b262-bff2-7fa3-53b8-67a86aa3795a",
+        "0193b262-bff2-7890-f957-17aa5cfbf6ed",
+        "0193b262-bff2-72ad-daa6-a0d97a2f7b01",
+        "0193b262-bff2-7fa9-1b68-b8c3e074e3cf",
+        "0193b262-bff2-7dbf-6b32-156c60dc49b1",
+        "0193b262-bff2-739f-c05a-5fbe1278f7fc",
+        "0193b262-bff3-7aad-3bfc-8e0e3c6a200b",
+        "0193b262-bff3-7a8b-bc73-5e3028d3b52d",
+        "0193b262-bff3-74a7-3a8d-0178164debfd",
+        "0193b262-bff3-7bba-73ba-88216ced7d6f",
+        "0193b262-bff3-71a6-b41e-1e2629d9458b",
+        "0193b262-bff3-73ba-d6c1-71eedd0d5642",
+        "0193b262-bff3-7b98-0988-2a288ce79274",
+        "0193b262-bff4-759d-6ebd-4394e6695922",
+        "0193b262-bff4-78aa-5fae-8c41147faa82",
+        "0193b262-bff4-7bb9-153f-304ba3585a08",
+        "0193b262-bff5-779a-3dcd-27b56650db5c",
+        "0193b262-bff5-7092-cdfa-278d09661924",
+        "0193b262-bff5-7a94-0085-19a748ea8a2c",
+        "0193b262-bff5-7d97-9712-4b58dc06da6d",
+        "0193b262-bff7-78b4-1bf1-0c54732d7578",
+        "0193b262-bff7-7cbe-3b35-f20c37c9c511",
+        "0193b262-bff7-7098-3759-b877c9b97917",
+        "0193b262-bff7-7999-36ba-866e6b130184",
+        "0193b262-bff7-76b5-9a1f-18f3c84cfa24",
+        "0193b262-bff8-7590-fb1b-2cb2e50fb39b",
+        "0193b262-bff8-7487-c9ab-5fbba70abde3",
+        "0193b262-bff8-759e-dcbd-308fd7b2ceab",
+        "0193b262-bff8-7293-51f3-669d01001efa",
+        "0193b262-bff8-7e9f-6990-15c6f02d5bfd",
+        "0193b262-bff8-76b6-e4dd-00d54fa69013",
+        "0193b262-bff8-7490-6dae-0d39b3a5c1dc",
+        "0193b262-bff9-7e83-55f1-d9736bc49bf2",
+        "0193b262-bff9-7b80-a690-7e48a086bc83",
+        "0193b262-bff9-7881-3a50-aae122106abd",
+        "0193b262-bff9-7dbf-322a-2e3822654e1e",
+        "0193b262-bff9-7ab2-c402-173553075d88",
+        "0193b262-bff9-7695-7a35-25b1ed7b0254",
+        "0193b262-bff9-7cb3-9151-298608659935",
+        "0193b262-bffa-7882-da28-0c32fc009836",
+        "0193b262-bffa-71bd-0998-ea99dd3226f9",
+        "0193b262-bffa-7e92-8fe1-72baf107b7fb",
+        "0193b262-bffa-7a8b-4a0b-3c64b2a5c88f",
+        "0193b262-bffa-7795-5581-3b83a6469e9d",
+        "0193b262-bffa-7681-427f-e31cdc6b9070",
+        "0193b262-bffa-7490-2850-2fc408008444",
+        "0193b262-bffb-778a-b7c9-4adbfa09b68c",
+        "0193b262-bffb-78be-80a0-6dab0091a129",
+        "0193b262-bffb-768a-95a4-e1a7f6b6765f",
+        "0193b262-bffb-7a8d-65e3-dbea5af3e1a6",
+        "0193b262-bffb-73b9-7544-fed8c6c4bd2b",
+        "0193b262-bffb-75b0-9a56-4a4fb06ac235",
+        "0193b262-bffb-7584-2ab3-bc254f308f74",
+        "0193b262-bffb-7ab0-af76-dfc51851c909",
+        "0193b262-bffb-7899-0ab3-4927917e6c01",
+        "0193b262-bffb-7a8d-796b-fd53d4358dbf",
+        "0193b262-bffc-7598-9a23-bdce844c4b48",
+        "0193b262-bffc-71b9-dd0f-acbe9e0d7270",
+        "0193b262-bffc-7b81-82d3-50d43e48b074",
+        "0193b262-bffc-7f98-8d7f-427f97b73c59",
+        "0193b262-bffc-72b5-77ad-6aa7b5021f53",
+        "0193b262-bffc-7b9d-f247-58ecead5cba7",
+        "0193b262-bffc-7394-58c0-ac3fc6182f46",
+        "0193b262-bffc-729d-27de-5644cd794a1b",
+        "0193b262-bffc-7b9e-e783-dc9d7018d31f",
+        "0193b262-bffc-7e8e-24c6-2f2103f2b292",
+        "0193b262-bffd-7498-8269-1a42088c451a",
+        "0193b262-bffd-7e80-c915-0dcaea12da16",
+        "0193b262-bffd-7180-eebe-bbbdc50cc976",
+        "0193b262-bffd-79a4-fb23-1c2e4c1ec9cc",
+        "0193b262-bffd-7fb4-6c84-86329daf02f4",
+        "0193b262-bffd-739d-1bd9-5282c8f64618",
+        "0193b262-bffd-718e-43ec-8a15274b8e6c",
+        "0193b262-bffd-709b-4d32-cc91a8dd1511",
+        "0193b262-bffd-7797-01fb-15984aab854b",
+        "0193b262-bffd-768f-24be-1bfc2a20451f",
+        "0193b262-bffd-7aa9-5b54-62cf50a3115e",
+        "0193b262-bffe-72b4-28df-09d77720f22d",
+        "0193b262-bffe-7c86-6253-ab738f474bfb",
+        "0193b262-bffe-7b9f-93ae-15b23965734c",
+        "0193b262-bffe-769f-a6a2-330576836726",
+        "0193b262-bffe-7b93-9e53-fbc61deff9af",
+        "0193b262-bffe-779f-5fab-d686c31f1b54",
+        "0193b262-bffe-748a-b880-6c324b37bacf"
+    ]
+}
